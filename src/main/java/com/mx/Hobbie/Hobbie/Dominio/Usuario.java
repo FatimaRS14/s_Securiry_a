@@ -1,4 +1,4 @@
-package com.mx.Hobbie.Hobbie.Dominio;
+/*package com.mx.Hobbie.Hobbie.Dominio;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
@@ -36,4 +36,4 @@ public class Usuario {
 	private String apellido;
 	
 
-}
+}*/
